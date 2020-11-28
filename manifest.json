@@ -1,0 +1,17 @@
+{
+  "name": "INFO BOLA",
+  "short_name": "I-Balls",
+  "description": "Aplikasi Informasi Liga Inggris",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#008B8B",
+  "theme_color": "#008B8B",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "gcm_sender_id": "85172471843"
+}
